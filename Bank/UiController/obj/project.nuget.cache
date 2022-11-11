@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kR80rxn/2Y8MhlLuK9hIHqdqWZkTzu8rBH6iOr02UdUU6xju5fb8+UIeXeTHp/b8Lv/G3VHNti862IDg+evOVg==",
+  "success": true,
+  "projectFilePath": "H:\\מחצית א\\C# מתקדם\\HW5\\Bank\\UiController\\UiController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ליברמן ריבי\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ליברמן ריבי\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ליברמן ריבי\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ליברמן ריבי\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ליברמן ריבי\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ליברמן ריבי\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

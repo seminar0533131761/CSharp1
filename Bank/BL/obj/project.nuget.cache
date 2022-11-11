@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "WqlzAnuqs5b+AClEbBRuSUkfUUHh9/QZllaJAD+pK0KN5NNp0xtvxokvPYixdf291BJmDuZw8l16u2lG9yGaOg==",
+  "success": false,
+  "projectFilePath": "H:\\C# ברלין\\HW\\HW5\\Bank\\BL\\BL.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'H:\\C# ברלין\\HW\\HW5\\Bank\\Dal\\Dal.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "H:\\C# ברלין\\HW\\HW5\\Bank\\Dal\\Dal.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

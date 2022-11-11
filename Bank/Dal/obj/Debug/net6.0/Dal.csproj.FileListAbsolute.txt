@@ -1,0 +1,12 @@
+H:\מחצית א\C# מתקדם\HW5\Bank\Dal\bin\Debug\net6.0\Dal.deps.json
+H:\מחצית א\C# מתקדם\HW5\Bank\Dal\bin\Debug\net6.0\Dal.dll
+H:\מחצית א\C# מתקדם\HW5\Bank\Dal\bin\Debug\net6.0\ref\Dal.dll
+H:\מחצית א\C# מתקדם\HW5\Bank\Dal\bin\Debug\net6.0\Dal.pdb
+H:\מחצית א\C# מתקדם\HW5\Bank\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+H:\מחצית א\C# מתקדם\HW5\Bank\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+H:\מחצית א\C# מתקדם\HW5\Bank\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+H:\מחצית א\C# מתקדם\HW5\Bank\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+H:\מחצית א\C# מתקדם\HW5\Bank\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+H:\מחצית א\C# מתקדם\HW5\Bank\Dal\obj\Debug\net6.0\Dal.dll
+H:\מחצית א\C# מתקדם\HW5\Bank\Dal\obj\Debug\net6.0\ref\Dal.dll
+H:\מחצית א\C# מתקדם\HW5\Bank\Dal\obj\Debug\net6.0\Dal.pdb
